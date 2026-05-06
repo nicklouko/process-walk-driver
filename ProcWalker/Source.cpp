@@ -20,9 +20,9 @@ typedef struct _PROCESS_LIST_RESPONSE {
 	PROCESS_INFO Processes[MAX_PROCESSES];
 } PROCESS_LIST_RESPONSE, *PPROCESS_LIST_RESPONSE;
 
-ULONG g_ActiveProcessLinksOffset = 0x1D8;
-ULONG g_ImageFileNameOffset = 0x338;
-ULONG g_UniqueProcessIdOffset = 0x1D0;
+ULONG g_ActiveProcessLinksOffset = 0x448;// 0x1D8(windows 11);
+ULONG g_ImageFileNameOffset = 0x5A8; //0x338;
+ULONG g_UniqueProcessIdOffset = 0x440; //0x1D0;
 
 VOID DriverUnload(PDRIVER_OBJECT DriverObject);
 NTSTATUS DriverCreateClose(PDEVICE_OBJECT DeviceObject, PIRP Irp);
