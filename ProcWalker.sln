@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcWalker", "ProcWalker\ProcWalker.vcxproj", "{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|x64.ActiveCfg = Debug|x64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|x64.Build.0 = Debug|x64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Debug|x64.Deploy.0 = Debug|x64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|ARM64.Build.0 = Release|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|ARM64.Deploy.0 = Release|ARM64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|x64.ActiveCfg = Release|x64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|x64.Build.0 = Release|x64
+		{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}.Release|x64.Deploy.0 = Release|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Debug|ARM64.ActiveCfg = Debug|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Debug|ARM64.Build.0 = Debug|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Debug|x64.ActiveCfg = Debug|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Debug|x64.Build.0 = Debug|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Release|ARM64.ActiveCfg = Release|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Release|ARM64.Build.0 = Release|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Release|x64.ActiveCfg = Release|x64
+		{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F0B62B-38DB-4A4A-BF0B-E122469E176C}
+	EndGlobalSection
+EndGlobal
