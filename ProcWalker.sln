@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcWalker", "ProcWalker\ProcWalker.vcxproj", "{E978B6ED-3EC2-FAEC-1AD8-831B31716C70}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{605E11B3-B5B2-4FC1-ACF8-845EBA75CDEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
